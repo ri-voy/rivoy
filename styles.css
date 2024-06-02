@@ -29,15 +29,14 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: #007BFF;  /* Blue color for navigation links */
     text-decoration: none;
     padding: 0.5em 1em;
-    transition: background-color 0.3s, color 0.3s;
+    transition: color 0.3s;
 }
 
 nav ul li a:hover {
-    background-color: #555;
-    color: white;
+    color: #0056b3;  /* Darker blue color on hover */
 }
 
 section {
