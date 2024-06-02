@@ -106,3 +106,12 @@ footer {
     position: relative;
     width: 100%;
 }
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
